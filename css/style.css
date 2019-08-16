@@ -1,0 +1,11 @@
+ #home {
+ 	background-image: url("../img/201p1.png");
+ 	background-color: #FFFFFF;
+ 	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: auto; /* Resize the background image to cover the entire container */
+ }
+
+.navbtn {
+	margin-top: 85vh;
+}
